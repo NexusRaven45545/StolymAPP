@@ -1,14 +1,14 @@
 # Stolym Studios
 
 **The official app.**  
-iOS – Alpha v1.3 out now (sideloading)
+iOS/iPadOS – Alpha v1.3 out now (sideloading)
 
 Windows - Alpha 0.0.1 out now
 
 ### Current status
 - **iOS**: First public alpha available (IPA in Releases)  
 - **Windows**: First public alpha available (EXE In Tags)
-- **macOS, iPadOS, Android**: Planned for Fall 2026  
+- **macOS and Android**: Planned for Fall 2026  
 
 This repo contains the source code and the latest sideloadable IPA builds for iOS.
 
