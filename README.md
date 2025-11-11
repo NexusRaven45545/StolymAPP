@@ -2,6 +2,7 @@
 
 **The official app.**  
 iOS – Alpha v1.3 out now (sideloading)
+
 Windows - Alpha 0.0.1 out now
 
 ### Current status
