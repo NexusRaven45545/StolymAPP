@@ -2,7 +2,7 @@
 
 **The official app.**  
 iOS/iPadOS – Alpha v1.8 out now (sideloading)  
-Windows – Alpha 0.0.1 out now
+Windows – Alpha 0.0.1 out now, next update is planned in a few days (as of 11/12/25)
 
 ### Current status
 - **iOS/iPadOS**: First public alpha available (IPA in Releases)  
