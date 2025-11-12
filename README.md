@@ -22,9 +22,8 @@ Bringing development, creativity, and innovation together — everywhere.
 ### Repository Contents
 
 * Sideloadable IPA for iOS/iPadOS  
-* Executable (EXE) for Windows  
-* Source files & configuration *(when available)*
-
+* Executable (EXE) for Windows
+  
 ---
 
 ### Core Features *(in development)*
