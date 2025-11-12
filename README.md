@@ -1,36 +1,89 @@
 # Stolym Studios
 
-**Official application of Stolym Studios**
-iOS/iPadOS – Alpha v1.8 available now (sideloading)
-Windows – Alpha v0.0.1 available now
+**Official Application of Stolym Studios & Stolym’s Service**  
+Bringing development, creativity, and innovation together — everywhere.
+
+**iOS/iPadOS – Alpha v1.8** *(sideloading available)*  
+**Windows – Alpha v0.0.1** *(download in Releases)*
+
+---
 
 ### Current Status
 
-* **iOS/iPadOS**: First public alpha available (IPA in *Releases*)
-* **Windows**: First public alpha available (EXE in *Releases*)
-* **Android**: Planned for Winter 2025 (Alpha release)
-* **macOS**: Planned for Winter 2025 (Alpha release)
+| Platform | Status | Notes |
+|-----------|---------|-------|
+| **iOS/iPadOS** | Alpha v1.8 | Available for sideloading *(IPA in Releases)* |
+| **Windows** | Alpha v0.0.1 | First public release *(EXE in Releases)* |
+| **Android** | Planned | Alpha planned for **Winter 2025** |
+| **macOS** | Planned | Alpha planned for **Winter 2025** |
+
+---
 
 ### Repository Contents
 
-* Sideloadable IPA for iOS/iPadOS
-* Executable for Windows
+* Sideloadable IPA for iOS/iPadOS  
+* Executable (EXE) for Windows  
+* Source files & configuration *(when available)*
+
+---
+
+### Core Features *(in development)*
+
+#### Dashboard
+* View and manage your active projects and service requests  
+* Real-time status updates *(Pending, In Progress, Completed)*  
+* Quick actions for each project *(open chat, view files, etc.)*  
+* Push notifications for updates or new messages  
+
+#### Stolym Support (Live Chat)
+* Direct chat between clients and Stolym developers  
+* File, screenshot, and log sharing  
+* Developer online/offline status  
+* Offline message queue *(auto-send when back online)*  
+* Push notifications when a developer replies  
+* *(Future)* Voice or video chat support  
+
+#### Stolym Tools
+* JSON ↔ YAML ↔ XML converter  
+* Token / UUID generator  
+* API Request Tester *(GET/POST)*  
+* Discord & Minecraft server ping tester  
+* Syntax checker *(JSON / JavaScript)*  
+* *(Future)* Built-in “Dev Mode” panel for Stolym admins  
+
+#### Profile & Settings
+* Manage account details  
+* Payment & order history  
+* QR-based login *(connect your app to the Stolym website instantly)*  
+* Light / Dark mode  
+* Notification control  
+
+---
 
 ### Version Policy
 
-We do **not** skip version numbers.
-Only stable and functional builds are published. Some internal builds may compile successfully but remain unreleased if they contain major bugs or unplanned issues.
+We do **not** skip version numbers.  
+Only **stable and functional** builds are released.  
+Some internal builds may compile successfully but remain unreleased if they contain bugs or major inconsistencies.
+
+---
 
 ### Development Note
 
-This is an **early alpha**: expect bugs, crashes, incomplete features, and a rough UI.
-However, the foundation is in place — the project is alive, evolving, and updates are rolling out quickly.
+Stolym Studios is currently managed, coded, and maintained by **one person** — updates may take time.  
+Each product is carefully developed one at a time to ensure stability and polish.
+
+> This is an **early alpha**: expect bugs, incomplete features, and an evolving UI.  
+> The project is alive — development is continuous and improving with each build.
+
+---
 
 ### Feedback
 
-Your feedback, bug reports, and ideas are invaluable.
-You can open an issue here or contact me directly — every message is read.
+Your feedback, ideas, and bug reports are *extremely valuable.*  
+You can:
+* Open an issue here on GitHub  
+* Contact the developer directly  
 
-Thank you for being part of the very beginning.
-
-Souhaites-tu que je t’en fasse aussi une version un peu plus « marketing » (plus dynamique, plus claire pour des visiteurs GitHub) ou tu préfères garder ce ton plus “devlog sobre” ?
+Every message is read.  
+Thank you for being part of the very beginning of Stolym Studios’ journey.
