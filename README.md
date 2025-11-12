@@ -2,12 +2,13 @@
 
 **The official app.**  
 iOS/iPadOS – Alpha v1.8 out now (sideloading)  
-Windows – Alpha 0.0.1 out now, next update is planned in a few days (as of 11/12/25)
+Windows – Alpha 0.0.1 out now
 
 ### Current status
-- **iOS/iPadOS**: First public alpha available (IPA in Releases)  
-- **Windows**: First public alpha available (EXE in Tags)  
-- **macOS & Android**: Planned for Fall 2026  
+- **iOS/iPadOS**: First public alpha available (IPA in Releases)
+- **Windows**: First public alpha available (EXE in Tags)
+- **Android**: Planned for Winter 2025
+- **macOS**: Planned for Fall 2026  
 
 This repository contains the latest builds:  
 - Sideloadable IPA for iOS/iPadOS  
