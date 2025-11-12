@@ -1,28 +1,36 @@
 # Stolym Studios
 
-**The official app.**  
-iOS/iPadOS – Alpha v1.8 out now (sideloading)  
-Windows – Alpha 0.0.1 out now
+**Official application of Stolym Studios**
+iOS/iPadOS – Alpha v1.8 available now (sideloading)
+Windows – Alpha v0.0.1 available now
 
-### Current status
-- **iOS/iPadOS**: First public alpha available (IPA in Releases)
-- **Windows**: First public alpha available (EXE in Tags)
-- **Android**: Planned for Winter 2025 (Alpha Version)
-- **MacOS**: Planned for Winter 2025 (Alpha Version)
+### Current Status
 
-This repository contains the latest builds:  
-- Sideloadable IPA for iOS/iPadOS  
-- Executable for Windows
+* **iOS/iPadOS**: First public alpha available (IPA in *Releases*)
+* **Windows**: First public alpha available (EXE in *Releases*)
+* **Android**: Planned for Winter 2025 (Alpha release)
+* **macOS**: Planned for Winter 2025 (Alpha release)
 
-**NOTE: Regarding the app versions, we are not skipping them. We only release app versions that work properly and are free of major bugs. Some builds may compile successfully, but still contain bugs or unplanned issues, and therefore are not released.**
+### Repository Contents
 
-Early alpha = expect bugs, crashes, missing features, rough UI…  
-But the core is here, it’s alive, and updates are coming in hot.
+* Sideloadable IPA for iOS/iPadOS
+* Executable for Windows
 
-Your feedback, bug reports, and ideas are extremely welcome.  
-Open an issue or DM me anywhere — I read everything.
+### Version Policy
 
-Thank you for being here at the very beginning.
+We do **not** skip version numbers.
+Only stable and functional builds are published. Some internal builds may compile successfully but remain unreleased if they contain major bugs or unplanned issues.
 
-– Stolym  
-November 2025
+### Development Note
+
+This is an **early alpha**: expect bugs, crashes, incomplete features, and a rough UI.
+However, the foundation is in place — the project is alive, evolving, and updates are rolling out quickly.
+
+### Feedback
+
+Your feedback, bug reports, and ideas are invaluable.
+You can open an issue here or contact me directly — every message is read.
+
+Thank you for being part of the very beginning.
+
+Souhaites-tu que je t’en fasse aussi une version un peu plus « marketing » (plus dynamique, plus claire pour des visiteurs GitHub) ou tu préfères garder ce ton plus “devlog sobre” ?
