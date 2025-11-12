@@ -9,7 +9,7 @@ Windows – Alpha 0.0.1 out now
 - **Windows**: First public alpha available (EXE in Tags)  
 - **macOS & Android**: Planned for Fall 2026  
 
-This repository contains the source code and the latest builds:  
+This repository contains the latest builds:  
 - Sideloadable IPA for iOS/iPadOS  
 - Executable for Windows
 
