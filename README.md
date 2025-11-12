@@ -8,7 +8,7 @@ Windows – Alpha 0.0.1 out now
 - **iOS/iPadOS**: First public alpha available (IPA in Releases)
 - **Windows**: First public alpha available (EXE in Tags)
 - **Android**: Planned for Winter 2025
-- **macOS**: Planned for Fall 2026  
+- **MacOS**: Planned for beggining of 2026  
 
 This repository contains the latest builds:  
 - Sideloadable IPA for iOS/iPadOS  
