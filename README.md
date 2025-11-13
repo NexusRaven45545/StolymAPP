@@ -14,7 +14,7 @@ Bringing development, creativity, and innovation together — everywhere.
 |-----------|---------|-------|
 | **iOS/iPadOS** | Alpha v1.8 | Available for sideloading *(IPA in Releases)* |
 | **Windows** | Alpha v0.0.1 | First public release *(EXE in Releases)* |
-| **Android** | Planned | Alpha planned for **Winter 2025** |
+| **Android** | Planned | First version coming soon ! |
 | **macOS** | Planned | Alpha planned for **Winter 2025** |
 
 ---
@@ -46,7 +46,7 @@ Bringing development, creativity, and innovation together — everywhere.
 * JSON ↔ YAML ↔ XML converter  
 * Token / UUID generator  
 * API Request Tester *(GET/POST)*  
-* Discord & Minecraft server ping tester  
+* Minecraft server ping tester  
 * Syntax checker *(JSON / JavaScript)*  
 * *(Future)* Built-in “Dev Mode” panel for Stolym admins  
 
