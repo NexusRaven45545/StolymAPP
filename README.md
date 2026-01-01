@@ -11,8 +11,8 @@ Bringing development, creativity, and innovation together — everywhere.
 |----------|---------|--------|---------------------|
 | **iOS/iPadOS** | Alpha v3.3 | Available | Sideloading (IPA) |
 | **Windows** | Alpha v0.0.1 | Available | Installer (EXE) |
-| **Android** | — | In Development | Coming 2025 |
-| **macOS** | — | Planned | Winter 2025 |
+| **Android** | — | In Development | Coming 2026 |
+| **macOS** | — | Planned | Winter 2026 |
 
 **Requirements:**
 - iOS/iPadOS: 15.0 or later
