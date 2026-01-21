@@ -1,1 +1,48 @@
-
+{
+  "name": "StolymAPP",
+  "subtitle": "StolymAPP By Stolym Studios",
+  "description": "Official AltStore source for StolymAPP and other custom iOS applications from StolymStudios.",
+  "iconURL": "https://raw.githubusercontent.com/Stolym-Studios/StolymAPP/refs/heads/iOS/Assets/Altstore/stolym-logo.png",
+  "headerURL": "https://raw.githubusercontent.com/Stolym-Studios/StolymAPP/refs/heads/iOS/Assets/Altstore/stolym-logo.png",
+  "website": "https://stolymstudios.vercel.app",
+  "tintColor": "#4A90E2",
+  "apps": [
+    {
+      "name": "StolymAPP",
+      "bundleIdentifier": "com.stolymstudios.stolymapp",
+      "developerName": "StolymStudios",
+      "subtitle": "Alpha - 3.1",
+      "localizedDescription": "StolymAPP - The APP By Stolym Studios",
+      "iconURL": "https://raw.githubusercontent.com/Stolym-Studios/StolymAPP/refs/heads/iOS/Assets/Altstore/stolym-logo.png",
+      "tintColor": "#4A90E2",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "A-3.1",
+          "buildVersion": "A-3.1",
+          "date": "2025-12-31",
+          "localizedDescription": "StolymAPP - Alpha 3.1",
+          "downloadURL": "https://github.com/Stolym-Studios/StolymAPP/releases/download/v3.3-alpha/StolymStudios.ipa",
+          "size": 4173824,
+          "minOSVersion": "18.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": [
+    {
+      "title": "Welcome to StolymAPP iOS",
+      "identifier": "stolym-alpha-3.1",
+      "caption": "Alpha 3.1",
+      "date": "2025-12-31",
+      "tintColor": "#4A90E2",
+      "imageURL": "https://raw.githubusercontent.com/Stolym-Studios/StolymAPP/refs/heads/iOS/Assets/Altstore/stolym-logo.png",
+      "notify": false
+    }
+  ]
+}
